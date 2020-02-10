@@ -59,9 +59,9 @@
 				A9ACCC0E2355928F00F02D98 /* AppDelegate.swift */,
 				A9ACCC102355928F00F02D98 /* SceneDelegate.swift */,
 				A9ACCC122355929000F02D98 /* ContentView.swift */,
-				A9ACCC142355929000F02D98 /* Assets.xcassets */,
 				A9ACCC192355929000F02D98 /* LaunchScreen.storyboard */,
 				A9ACCC1C2355929000F02D98 /* Info.plist */,
+				A9ACCC142355929000F02D98 /* Assets.xcassets */,
 				A9ACCC162355929000F02D98 /* Preview Content */,
 			);
 			path = SampleSwiftUI;
